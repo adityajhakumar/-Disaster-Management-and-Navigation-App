@@ -136,9 +136,11 @@ If you discover any security issues or vulnerabilities, please send an email to 
 ## ✨ Acknowledgements
 Special thanks to the open-source libraries and tools that made this project possible:
 - [Streamlit](https://streamlit.io/) ![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg)
-- [Folium](![image](https://github.com/user-attachments/assets/966345f3-1341-4c14-81b2-4439bb5c02f2)
-- [Geopy](https://geopy.readthedocs.io/en/stable/) ![Geopy Logo](https://geopy.readthedocs.io/en/stable/_images/geopy-logo.png)
-- [OSMNx](https://osmnx.readthedocs.io/en/stable/) ![OSMNx Logo](https://osmnx.readthedocs.io/en/stable/_static/logo.png)
+- [Folium]![image](https://github.com/user-attachments/assets/966345f3-1341-4c14-81b2-4439bb5c02f2)
+- [Geopy](https://geopy.readthedocs.io/en/stable/) ![image](https://github.com/user-attachments/assets/0a386ace-9303-4c0d-8c21-710b0d87f5f2)
+
+- [OSMNx](https://osmnx.readthedocs.io/en/stable/) ![image](https://github.com/user-attachments/assets/b22c6aec-5400-46af-a747-6ad6bbf78eb0)
+
 
 ---
 
