@@ -136,7 +136,7 @@ If you discover any security issues or vulnerabilities, please send an email to 
 ## ✨ Acknowledgements
 Special thanks to the open-source libraries and tools that made this project possible:
 - [Streamlit](https://streamlit.io/) ![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg)
-- [Folium](https://python-visualization.github.io/folium/) ![Folium Logo](https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/logo-wide.png)
+- [Folium](![image](https://github.com/user-attachments/assets/966345f3-1341-4c14-81b2-4439bb5c02f2)
 - [Geopy](https://geopy.readthedocs.io/en/stable/) ![Geopy Logo](https://geopy.readthedocs.io/en/stable/_images/geopy-logo.png)
 - [OSMNx](https://osmnx.readthedocs.io/en/stable/) ![OSMNx Logo](https://osmnx.readthedocs.io/en/stable/_static/logo.png)
 
