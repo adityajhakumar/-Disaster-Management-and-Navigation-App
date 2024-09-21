@@ -1,6 +1,4 @@
-I see! Let me adjust the links to make sure the images are properly visible and working. Here’s the revised README with corrected image URLs, including suggestions for where to find better images if needed.
 
----
 
 # 🗺️ Disaster Management and Navigation App
 
